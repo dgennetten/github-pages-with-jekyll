@@ -1,1 +1,4 @@
-Hello, first post.
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
